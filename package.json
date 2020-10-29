@@ -2,7 +2,8 @@
     "name": "san-diego-top-spots",
     "version": "0.1.0",
     "scripts": {
-        "test": "mocha --exit"
+        "test": "mocha --exit",
+        "start": "node main.js"
     },
     "dependencies": {
         "chai": "^4.0.2",
